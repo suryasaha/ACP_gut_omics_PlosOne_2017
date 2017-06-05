@@ -1,1 +1,3 @@
-# ACP_gut_omics_PlosOne_2017
+ACP gut Omics 
+Kruse et al., PlosOne 2017
+
